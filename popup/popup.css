@@ -1,0 +1,10 @@
+body{
+    background: white;
+    color:gray;
+    min-width:50px !important;
+    text-align: center;
+}
+
+ img{
+    margin-bottom: -2px;
+}
