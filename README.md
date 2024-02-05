@@ -24,7 +24,7 @@ Aucune configuration n'est nécessaire. BabyOnBoard fonctionne automatiquement d
 
 ## Contributions
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer au développement de l'extension ou signaler des problèmes, n'hésitez pas à ouvrir une [issue](https://github.com/RahToky/BabyOnBoard/issues) ou à envoyer une [pull request](https://github.com/RahToky/BabyOnBoard/pulls).
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer au développement de l'extension ou signaler des problèmes, n'hésitez pas à ouvrir une [issue](https://github.com/RahToky/BabyOnBoardExtension/issues) ou à envoyer une [pull request](https://github.com/RahToky/BabyOnBoardExtension/pulls).
 
 ## Licence
 
