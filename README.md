@@ -5,9 +5,11 @@ BabyOnBoard est une extension de navigateur conçue pour protéger les utilisate
 ## Fonctionnalités
 
 ### Détection d'URL inappropriées
+
 BabyOnBoard analyse l'URL des sites web visités. Si l'URL contient des mots adultes tels que "sex", "nude", etc., l'extension bloque automatiquement l'accès au site.
 
 ### Analyse du Contenu Textuel
+
 L'extension examine également les textes présents sur la page web. Si elle détecte la présence de certains mots spécifiques associés à du contenu adulte et que leur nombre dépasse 4 occurrences, l'extension bloque le site pour assurer une expérience en ligne sécurisée pour les enfants.
 
 ## Installation
@@ -22,8 +24,8 @@ Aucune configuration n'est nécessaire. BabyOnBoard fonctionne automatiquement d
 
 ## Contributions
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer au développement de l'extension ou signaler des problèmes, n'hésitez pas à ouvrir une [issue](https://github.com/votre-utilisateur/BabyOnBoard/issues) ou à envoyer une [pull request](https://github.com/votre-utilisateur/BabyOnBoard/pulls).
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer au développement de l'extension ou signaler des problèmes, n'hésitez pas à ouvrir une [issue](https://github.com/RahToky/BabyOnBoard/issues) ou à envoyer une [pull request](https://github.com/RahToky/BabyOnBoard/pulls).
 
 ## Licence
 
-Ce projet est sous licence [MIT](LICENSE).
+Ce projet est sous licence [GPL](LICENSE).
